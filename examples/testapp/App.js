@@ -1,5 +1,5 @@
 /*jshint esversion: 6 */
-
+import { AlanView } from '@alan-ai/alan-sdk-react-native';
 import React, {Component} from 'react';
 import {
   Button,
